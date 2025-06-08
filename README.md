@@ -5,7 +5,6 @@ A Power BI project analyzing Uber trip data with interactive dashboards and adva
 This project analyses Uber trip data using Power BI to provide actionable insights into booking trends, revenue, and trip efficiency. The dashboards enable stakeholders to make data-driven decisions for optimizing operations, pricing, and customer satisfaction.
 
 🚀 Dashboards
-
 1. Overview Analysis:
    
 •	Tracks key metrics such as Total Bookings, Total Booking Value, Average Booking Value, Total Trip Distance, and Average Trip Time.
@@ -18,8 +17,7 @@ This project analyses Uber trip data using Power BI to provide actionable insigh
 
 •	Additional features: dynamic chart titles, tooltips, and grid views for deeper analysis.
 
-
-3. Time-Based Analysis:
+2. Time-Based Analysis:
    
 •	Analyzes ride demand over time using dynamic measures (Total Bookings, Total Booking Value, Total Trip Distance).
 
@@ -27,8 +25,7 @@ This project analyses Uber trip data using Power BI to provide actionable insigh
 
 •	Helps identify peak/off-peak periods and optimize driver allocation and pricing.
 
-
-5. Detail Explorer:
+3. Detail Explorer:
    
 •	Provides granular trip-level data in a grid with drill-through functionality.
 
